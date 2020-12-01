@@ -52,11 +52,11 @@ Allstar - de Smashmouth começa a tocar. Shrek trata do seu
 dia. Enquanto estão em uma cidade próxima, os moradores se reúnem para ir
 depois do ogro.
 NOITE - PERTO DA CASA DE SHREK
-MAN1
+HOMEM1
 Acha que está aí?
-MAN2
+HOMEM2
 Tudo certo. Vamos obtê-lo!
-MAN1
+HOMEM1
 Uau. Aguente. Você sabe o que isso
 coisa que posso fazer por você?
 MAN3
@@ -66,15 +66,14 @@ Shrek se esgueira por trás deles e ri.
 SHREK
 Sim, bem, na verdade, isso seria um
 gigante. Agora, ogros, eles são muito piores.
-Eles farão um terno com você recém
-pele descascada.
+Eles farão um terno com sua pele.
 HOMENS
 Não!
 SHREK
 Eles vão raspar seu fígado. Aperte o
 geléia de seus olhos! Na verdade, é
 muito bom em torradas.
-MAN1
+HOMEM1
 Costas! Para trás, besta! Costas! Eu te aviso!
 (acena a tocha para Shrek.)
 Shrek calmamente lambe os dedos e apaga a tocha. o
@@ -145,7 +144,7 @@ Direito. Bem, isso é bom para dez xelins,
 se você pode provar isso.
 MULHER VELHA
 Oh, vá em frente, amiguinho.
-Donkey apenas olha para ela.
+BURRO apenas olha para ela.
 GUARDA DE CABEÇA
 Bem?
 MULHER VELHA
@@ -191,7 +190,7 @@ Depois dele!
 GUARDAS
 Ele está fugindo! Pegue ele! Deste jeito!
 Virar!
-Donkey continua correndo e eventualmente encontra Shrek. Literalmente.
+BURRO continua correndo e eventualmente encontra Shrek. Literalmente.
 Shrek se vira para ver quem esbarrou nele. Burro parece assustado
 por um momento, ele avista os guardas subindo o caminho. Ele
 rapidamente se esconde atrás de Shrek.
@@ -215,8 +214,8 @@ você foi realmente, realmente, realmente algo
 de volta aqui. Incrível!
 SHREK
 Você está falando com ... (ele se vira
-e Donkey se foi) mim? (ele volta
-ao redor e Donkey está bem na frente
+e BURRO se foi) mim? (ele volta
+ao redor e BURRO está bem na frente
 dele.) Uau!
 BURRO
 Sim. Eu estava falando com você. Posso contar
@@ -241,7 +240,7 @@ ficar com você. Você é mau, verde,
 máquina de luta. Juntos vamos assustar
 o cuspe de qualquer um que atravessa
 nos.
-Shrek se vira e olha para Donkey por um momento antes de rugir muito
+Shrek se vira e olha para BURRO por um momento antes de rugir muito
 alto.
 BURRO
 Oh, uau! Isso foi realmente assustador. Se vocês
@@ -371,7 +370,7 @@ Shrek está se preparando para o jantar. Ele se senta e acende
 uma vela feita de cera de ouvido. Ele começa a comer quando ouve um
 barulho. Ele se levanta com um bufo.
 SHREK
-(para o Donkey) Pensei ter dito para você
+(para o Burro) Pensei ter dito para você
 fique do lado de fora
 .
 BURRO
@@ -379,26 +378,26 @@ BURRO
 Há outro barulho e Shrek se vira para encontrar a pessoa que
 fez o barulho. Ele vê várias sombras se movendo. Ele finalmente vira
 e vê 3 ratos cegos em sua mesa.
-MOUSE1 CEGO
+RATO1 CEGO
 Bem, senhores, está muito longe do
 fazenda, mas que escolha nós temos?
-MOUSE2 CEGO
+RATO2 CEGO
 Não está em casa, mas vai servir bem.
 GORDO
 (quicando em uma lesma) Que cama adorável.
 SHREK
-Entendi. (Pega um mouse, mas ele escapa
+Entendi. (Pega um RATO, mas ele escapa
 e pousa em seu ombro.)
-GORDO
+RATO GORDO
 Encontrei um pouco de queijo. (morde o de Shrek
 orelha)
 SHREK
 Ai!
 GORDO
 Blah! Coisas horríveis.
-MOUSE1 CEGO
+RATO CEGO
 É você, Gordo?
-GORDO
+RATO GORDO
 Como você sabia?
 SHREK
 O suficiente! (ele pega os 3 ratos) O que são
@@ -417,13 +416,13 @@ O Lobo Mau está sentado na cama. O lobo apenas olha para
 ele.
 LOBO MAU
 O que?
-ESPAÇO DE TEMPO
+*ESPAÇO DE TEMPO*
 Shrek agora está com o Lobo Mau pela coleira e está arrastando
 ele para a porta da frente.
 SHREK
 Eu moro em um pântano. Eu coloquei placas. Eu estou
 um ogro terrível! O que eu tenho que
-consegue um pouco de privacidade? (Ele abre o
+consegue um pouco de privacidade? (Ele abre a
 porta da frente para jogar o Lobo para fora e
 ele vê que todas as fadas reunidas
 Tale Creatures estão em suas terras.) Oh,
@@ -443,7 +442,7 @@ Hapaya! Ei! Rapidamente. Vamos! (Mais
 anões correm para dentro de casa) Não, não!
 Não não. Não está lá. Não está lá. (eles
 feche a porta na cara dele) Oh! (vira para
-olhe para Donkey)
+olhe para BURRO)
 BURRO
 Ei, não olhe para mim.
 Eu não convidei
@@ -482,11 +481,11 @@ Suas boas-vindas estão oficialmente esgotadas.
 Na verdade, eu vou ver esse cara Farquaad
 agora e tire todos vocês da minha terra
 e de volta de onde você veio! (Pausa.
-Então a multidão vai à loucura.) Oh! (para Donkey)
+Então a multidão vai à loucura.) Oh! (para BURRO)
 Você! Você vem comigo.
 BURRO
 Tudo bem, é o que eu gosto de ouvir,
-homem. Shrek e Donkey, dois robustos
+homem. Shrek e BURRO, dois robustos
 amigos, em um grande redemoinho
 cidade
 aventura. Eu amo isso!
@@ -504,7 +503,7 @@ BURRO
 Posso cantarolar?
 SHREK
 Tudo bem, cantarole.
-Donkey começa a cantarolar 'On the Road Again'.
+BURRO começa a cantarolar 'On the Road Again'.
 DULOC - COZINHA
 Um homem mascarado está torturando o Gingerbread Man.
 Ele está continuamente
@@ -651,7 +650,7 @@ o rei perfeito! Capitão, monte
 seus melhores homens. Nós vamos ter
 um torneio. (sorri maldosamente)
 DuLoc Parking Lot - Lancelot Section
-Shrek e Donkey saem do campo que fica bem perto do estacionamento
+Shrek e BURRO saem do campo que fica bem perto do estacionamento
 muitos. O castelo em si tem cerca de 40 andares.
 BURRO
 Mas é isso. É isso aí.
@@ -664,7 +663,7 @@ SHREK
 Você acha que talvez ele esteja compensando
 para algo? (Ele ri
 , mas então
-geme como Donkey não entende a piada.
+geme como BURRO não entende a piada.
 Ele continua andando pelo estacionamento
 muitos.)
 BURRO
@@ -681,7 +680,7 @@ Olha, eu não vou te comer. eu só
 - Eu só - - (Ele suspira e então começa
 andando direto pelas fileiras. o
 atendente bate em uma parede e cai
-baixa. Shrek e Donkey olham para ele então
+baixa. Shrek e BURRO olham para ele então
 continue em DuLoc.)
 DULOC
 Eles olham em volta, mas tudo está quieto.
@@ -690,7 +689,7 @@ Está quieto. Muito quieto.
 Onde está todo mundo?
 BURRO
 Ei, olha isso!
-Donkey corre e puxa uma alavanca que está presa a uma caixa
+BURRO corre e puxa uma alavanca que está presa a uma caixa
 marcado como 'Informações'. A música termina e então as portas dos camarotes
 Abra. Há pequenas pessoas de madeira dentro e eles começam
 cantar.
@@ -705,7 +704,7 @@ Por favor, fique longe da grama
 Engraxe seus sapatos, limpe seu ... rosto
 DuLoc é, DuLoc é
 DuLoc é o lugar perfeito.
-De repente, uma câmera tira uma foto de Donkey e Shrek.
+De repente, uma câmera tira uma foto de BURRO e Shrek.
 BURRO
 Uau! Vamos fazer isso de novo! (se prepara
 correr e puxar a alavanca novamente)
@@ -717,8 +716,8 @@ FARQUAAD
 Bravos cavaleiros. Você é o melhor e
 mais brilhante em toda a terra. Hoje um
 de você deve provar a si mesmo ...
-Enquanto Shrek e Donkey caminham pelo túnel para entrar na arena
-Donkey está cantarolando a música tema do DuLoc.
+Enquanto Shrek e BURRO caminham pelo túnel para entrar na arena
+BURRO está cantarolando a música tema do DuLoc.
 SHREK
 Tudo certo. Você está indo no caminho certo
 para um fundo estalado.
@@ -737,7 +736,7 @@ fazer. (aplausos) Deixe o torneio
 início! (Ele nota Shrek) Oh! O que é
 aquele? É horrível!
 SHREK
-(vira para olhar para Donkey e depois volta
+(vira para olhar para BURRO e depois volta
 em Farquaad) Ah, isso não é muito bom.
 É apenas um burro.
 FARQUAAD
@@ -764,7 +763,7 @@ Ele pega a caneca e quebra a torneira do grande barril
 de cerveja atrás dele. A cerveja sai correndo encharcando o
 outros homens e molhando o chão. É como lama agora. Slides Shrek
 passa pelos homens e pega uma lança que um dos homens deixou cair.
-Quando Shrek começa a lutar, Donkey pula para cima de um dos maiores
+Quando Shrek começa a lutar, BURRO pula para cima de um dos maiores
 barris de cerveja.
 Ele se solta das cordas e começa a rolar.
 Burro consegue esmagar dois homens na lama. Há tanto
@@ -909,7 +908,7 @@ um campo ao pôr do sol. Dormindo sob uma lua brilhante. Shrek tentando
 para apagar a fogueira no dia seguinte e tendo um pequeno problema,
 então Burro faz xixi no fogo para apagá-lo.
 MANTER DO DRAGÃO
-Shrek e Donkey estão caminhando para a fortaleza que deveria
+Shrek e BURRO estão caminhando para a fortaleza que deveria
 casa Princesa Fiona. Parece um vulcão gigante.
 BURRO
 (funga) Ohh! Shrek! Você fez isso?
@@ -917,7 +916,7 @@ Você tem que avisar alguém antes de apenas
 quebrar um. Minha boca estava aberta e
 tudo.
 SHREK
-Acredite em mim, Donkey, se fosse eu, você
+Acredite em mim, BURRO, se fosse eu, você
 estar morto. (funga) É enxofre. Nós
 deve estar chegando perto.
 BURRO
@@ -956,7 +955,7 @@ Não, só estou um pouco desconfortável
 sobre estar em uma ponte instável sobre
 uma fervura como de lava!
 SHREK
-Vamos, Donkey. Estou bem aqui ao lado
+Vamos, BURRO. Estou bem aqui ao lado
 sim, ok? Para suporte emocional., Vamos
 apenas enfrentem essa coisa juntos um
 pequeno passo de bebê de cada vez.
@@ -987,7 +986,7 @@ Você vai voltar.
 BURRO
 Shrek, não! Esperar!
 SHREK
-Just, Donkey - - Vamos dançar
+Just, BURRO - - Vamos dançar
 então, está bem? (salta e balança o
 ponte)
 BURRO
@@ -999,7 +998,7 @@ BURRO
 Isso!
 SHREK
 Sim? Sim, faça isso. OK. (continua a
-pula e balança enquanto ele faz o Donkey atravessar
+pula e balança enquanto ele faz o BURRO atravessar
 a Ponte)
 BURRO
 Não, Shrek! Não! Pare!
@@ -1010,7 +1009,7 @@ Eu vou morrer. Eu vou morrer. Shrek,
 Eu vou morrer. (pisa em terreno sólido)
 Oh!
 SHREK
-Isso basta, Donkey. Isso vai servir. (anda em
+Isso basta, BURRO. Isso vai servir. (anda em
 em direção ao castelo)
 BURRO
 Legal.
@@ -1065,7 +1064,7 @@ Eu vou chicotear seu traseiro também. Aquelas escadas
 não saberá para onde estão indo.
 (vai embora)
 SALA VAZIA
-Donkey ainda está falando sozinho enquanto olha ao redor da sala.
+BURRO ainda está falando sozinho enquanto olha ao redor da sala.
 BURRO
 Vou tomar medidas drásticas. Chute
 para o meio-fio. Não mexa comigo. Eu estou
@@ -1238,7 +1237,7 @@ Em vez disso, o dragão beija a bunda de Shreks. Ela abre os olhos e
 ruge. Shrek solta a corrente e o lustre cai sobre
 cabeça dela,
 mas é muito grande e passa por cima de sua cabeça e se forma
-uma espécie de coleira para ela. Ela ruge novamente e Shrek e Donkey
+uma espécie de coleira para ela. Ela ruge novamente e Shrek e BURRO
 saia correndo. Muito estilo 'Matrix'. Shrek agarra Burro e
 em seguida, agarra a princesa Fiona enquanto ele passa por ela.
 BURRO
@@ -1255,7 +1254,7 @@ os olhos se cruzam e quando ele chega ao fundo do slide, ele tropeça
 sai e anda com leveza.
 SHREK
 Oh!
-Shrek os leva perto da saída e coloca Donkey e Fiona no chão.
+Shrek os leva perto da saída e coloca BURRO e Fiona no chão.
 SHREK
 Ok, vocês dois, ouvidos para a saída! eu vou
 cuide do dragão.
@@ -1275,7 +1274,7 @@ em horror enquanto o dragão faz para voar sobre a lava fervente para
 pegue eles. Mas de repente o lustre com a corrente sacudiu o
 dragão de volta e ela é incapaz de chegar até eles. Nossa gangue sobe
 rapidamente para a segurança enquanto o dragão parece zangado e então dá um
-choramingo triste enquanto observa Donkey se afastar.
+choramingo triste enquanto observa BURRO se afastar.
 FIONA
 (descendo a colina do 'vulcão') Você
 consegui! Você me resgatou! Você é incrível.
@@ -1308,7 +1307,7 @@ Não, não, você não - - 'st.
 FIONA
 Mas como você vai me beijar?
 SHREK
-O que? (para Donkey) Isso não estava no
+O que? (para BURRO) Isso não estava no
 descrição do trabalho.
 BURRO
 Talvez seja uma vantagem.
@@ -1324,7 +1323,7 @@ Esperar. Você acha que Shrek é você verdadeiro
 amar?
 FIONA
 Bem, sim.
-Tanto Donkey quanto Shrek começaram a rir.
+Tanto BURRO quanto Shrek começaram a rir.
 BURRO
 Você acha que Shrek é o seu verdadeiro amor!
 FIONA
@@ -1482,7 +1481,7 @@ Quer que eu leia uma história para dormir?
 Eu vou.
 FIONA
 (os) Eu disse boa noite!
-Shrek olha para Donkey por um segundo e depois vai mover o
+Shrek olha para BURRO por um segundo e depois vai mover o
 pedra na frente da entrada da caverna com Fiona
 ainda dentro.
 BURRO
@@ -1492,9 +1491,9 @@ SHREK
 vamos.
 Eu estava apenas brincando.
 MAIS TARDE NAQUELA NOITE
-Shrek e Donkey estão sentados ao redor de uma fogueira. Eles estão olhando
+Shrek e BURRO estão sentados ao redor de uma fogueira. Eles estão olhando
 para o céu enquanto Shrek aponta certas constelações de estrelas
-para Donkey.
+para BURRO.
 SHREK
 E, uh, aquele, é Throwback,
 o único ogro a cuspir mais de três
@@ -1625,7 +1624,7 @@ Farquaad olha para o peito nu e puxa o lençol
 para se cobrir como se Fiona pudesse vê-lo enquanto ele olha timidamente
 para sua imagem no espelho.
 MANHÃ
-Fiona sai da caverna. Ela olha para Shrek e Donkey
+Fiona sai da caverna. Ela olha para Shrek e BURRO
 que ainda estão dormindo. Ela vagueia para a floresta e vem
 através de um pássaro azul. Ela começa a cantar.
 O pássaro canta junto
@@ -1633,7 +1632,7 @@ com ela. Ela atinge notas cada vez mais altas e o pássaro luta
 para acompanhá-la. De repente, a pressão da nota é demais
 grande e o pássaro explode. Fiona parece um pouco envergonhada, mas
 ela olha os ovos que o pássaro deixou para trás. Lapso de tempo, Fiona
-agora está cozinhando os ovos para o café da manhã. Shrek e Donkey ainda estão
+agora está cozinhando os ovos para o café da manhã. Shrek e BURRO ainda estão
 dormindo. Shrek acorda e olha para Fiona. O burro está falando
 em seu sono.
 BURRO
@@ -1762,7 +1761,7 @@ Shrek olha para ela com admiração.
 HOMEM ALEGRE
 Oh, seu pequeno- - (atira uma flecha em
 Fiona, mas ela sai do caminho)
-A flecha voa em direção a Donkey, que pula nos braços de Shrek para
+A flecha voa em direção a BURRO, que pula nos braços de Shrek para
 saia do caminho. A flecha começa a ricochetear em uma árvore.
 Outra sequência de luta começa e Fiona dá um grito de caratê e
 em seguida, começa a espancar os Merry Men. Há sim
@@ -1828,7 +1827,7 @@ SHREK
 Para que servem as flores?
 FIONA
 (como se fosse óbvio) Para se livrar
-de Donkey.
+de BURRO.
 SHREK
 Ah.
 FIONA
@@ -1906,7 +1905,7 @@ Há uma montagem de cenas enquanto o grupo volta para DuLoc.
 Shrek rastejando até o topo de uma árvore para fazê-la cair sobre um
 pequeno riacho para que Fiona não se molhe. Shrek então se levanta quando
 Burro está prestes a cruzar a árvore e a árvore balança para trás
-em sua posição vertical e Donkey voa. Golpe de Shrek
+em sua posição vertical e BURRO voa. Golpe de Shrek
 e um monte de moscas e mosquitos. Fiona agarra uma teia de aranha próxima
 que está em um galho de árvore e corre pelo campo balançando-o
 ao redor para pegar os insetos. Ela então entrega para Shrek, que começa
@@ -1932,7 +1931,7 @@ Hum, eu, uh- - Acho melhor nos movermos
 em.
 FIONA
 Certo. Mas, Shrek? Estou - estou preocupado
-sobre Donkey.
+sobre BURRO.
 SHREK
 O que?
 FIONA
@@ -2068,7 +2067,7 @@ nenhum lugar para ser visto.
 BURRO
 Princesa? Princesa Fiona? Princesa,
 Onde você está? Princesa?
-Fiona olha para Donkey das sombras, mas não podemos vê-la.
+Fiona olha para BURRO das sombras, mas não podemos vê-la.
 BURRO
 É muito assustador aqui. Eu não estou jogando
 sem jogos.
@@ -2162,7 +2161,7 @@ Bem, eu não vou mentir. Você é feio.
 Mas você só fica assim à noite.
 Shrek é feio 24-7.
 FIONA
-Mas Donkey, eu sou uma princesa, e esta
+Mas BURRO, eu sou uma princesa, e esta
 não é como uma princesa deve parecer.
 BURRO
 Princesa, que tal se você não se casar
@@ -2191,11 +2190,11 @@ mas eu pensei que você poderia gostar porque
 você é bonita. Mas eu gosto de você de qualquer maneira.
 Eu - - uh, uh ... (suspira) Estou com problemas.
 Ok, vamos lá.
-Ele caminha até a porta e para do lado de fora quando ouve Donkey
+Ele caminha até a porta e para do lado de fora quando ouve BURRO
 e Fiona conversando.
 FIONA
 (os) Eu não posso simplesmente casar com quem eu quiser.
-Dê uma boa olhada em mim, Donkey. Quero dizer,
+Dê uma boa olhada em mim, BURRO. Quero dizer,
 realmente,
 quem pode amar uma besta assim
 horrível e feio? "Princesa" e "feia"
@@ -2309,7 +2308,7 @@ não como se tivesse sentimentos.
 FIONA
 Não,
 você está certo. Não é verdade.
-Donkey assiste a essa troca com um olhar curioso no rosto.
+BURRO assiste a essa troca com um olhar curioso no rosto.
 FARQUAAD
 Princesa Fiona linda, linda, impecável
 Fiona. Peço sua mão em casamento.
@@ -2436,7 +2435,7 @@ BURRO
 Porque é isso que os amigos fazem! Eles
 perdoar um ao outro!
 SHREK
-Oh sim. Você está certo, Donkey. Eu perdoo
+Oh sim. Você está certo, BURRO. Eu perdoo
 você ... por me apunhalar pelas costas!
 (vai para a casinha e bate no
 porta)
@@ -2501,7 +2500,7 @@ Eu acho que é apenas o meu magnetismo animal
 .
 Ambos riem.
 SHREK
-Ah, venha aqui, você. (dá a Donkey um
+Ah, venha aqui, você. (dá a BURRO um
 noogie)
 BURRO
 Tudo bem, tudo bem. Não pegue tudo
@@ -2594,7 +2593,7 @@ BURRO
 Mãe Fletcher! Ele já disse isso.
 SHREK
 Oh, pelo amor de Pete!
-Ele corre para dentro sem pegar Donkey, que bate com força no chão.
+Ele corre para dentro sem pegar BURRO, que bate com força no chão.
 DENTRO DA IGREJA
 SHREK
 (correndo em direção ao altar) Eu me oponho!
@@ -2767,7 +2766,7 @@ que tanto Cinderela quanto Branca de Neve tentam pegar. Mas eles acabam
 entrando em uma luta de gatos e então o dragão pega o buquê
 em vez de. O Gingerbread man foi consertado um pouco e agora
 tem uma perna e anda com uma bengala de pirulito. Shrek e Fiona
-saia enquanto o resto dos convidados festejam e Donkey assume
+saia enquanto o resto dos convidados festejam e BURRO assume
 cantando a música.
 GINGERBREAD MAN
 Deus abençoe todos nós.
