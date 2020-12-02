@@ -505,56 +505,56 @@ SHREK
 Tudo bem, cantarole.
 BURRO começa a cantarolar 'On the Road Again'.
 DULOC - COZINHA
-Um homem mascarado está torturando o Gingerbread Man.
+Um homem mascarado está torturando o HOMEM BISCOITO.
 Ele está continuamente
 mergulhando-o em um copo de leite. Lord Farquaad entra.
 FARQUAAD
 É o bastante. Ele está pronto para conversar.
-O Gingerbread Man é retirado do leite e derrubado
+O HOMEM BISCOITO é retirado do leite e derrubado
 em uma assadeira. Farquaad ri enquanto caminha até o
 tabela. No entanto, quando ele chega à mesa, vemos que vai
 até seus olhos.
 Ele limpa a garganta e a mesa é abaixada.
 FARQUAAD
-(ele pega as pernas do Gingerbread Man
+(ele pega as pernas do HOMEM BISCOITO
 e brinca com eles) Corra, corra, corra,
 o mais rápido que você puder. Você não pode pegar
 mim. Eu sou o boneco de gengibre.
-GINGERBREAD MAN
+HOMEM BISCOITO
 Você é um monstro.
 FARQUAAD
 Eu não sou o monstro aqui. Tu es. Você
 e o resto daquele lixo de conto de fadas,
 envenenando meu mundo perfeito. Agora diga
 mim! Onde estão os outros?
-GINGERBREAD MAN
+HOMEM BISCOITO
 Coma-me! (Ele cospe leite no Farquaad's
 olho.)
 FARQUAAD
 Tentei ser justo com vocês, criaturas.
 Agora minha paciência chegou ao fim!
 Diga-me ou eu vou ... (ele faz como se quisesse
-puxe os botões do Gingerbread Man)
-GINGERBREAD MAN
+puxe os botões do HOMEM BISCOITO)
+HOMEM BISCOITO
 Não, não, não os botões. Não é minha goma
 botões.
 FARQUAAD
 Tudo bem então. Quem os está escondendo?
-GINGERBREAD MAN
+HOMEM BISCOITO
 Ok, eu vou te dizer. Voce sabe o
 homem muffin?
 FARQUAAD
 O homem do muffin?
-GINGERBREAD MAN
+HOMEM BISCOITO
 O homem do muffin.
 FARQUAAD
 Sim, eu conheço o homem muffin, que vive
 em Drury Lane?
-GINGERBREAD MAN
+HOMEM BISCOITO
 Bem, ela é casada com o homem muffin.
 FARQUAAD
 O homem do muffin?
-GINGERBREAD MAN
+HOMEM BISCOITO
 O homem do muffin!
 FARQUAAD
 Ela é casada com o homem muffin.
@@ -567,11 +567,11 @@ dentro
 Mais guardas entram carregando algo coberto por um lençol.
 Eles penduram o que quer que seja e removem o lençol. É a magia
 Espelho.
-GINGERBREAD MAN
+HOMEM BISCOITO
 (maravilhado) Ohhhh ...
 FARQUAAD
 Espelho mágico...
-GINGERBREAD MAN
+HOMEM BISCOITO
 Não diga nada a ele! (Escolhe Farquaad
 ele o joga em uma lata de lixo
 com uma tampa.) Não!
@@ -2757,18 +2757,18 @@ BURRO
 (risos) Eu esperava que isso fosse
 um final feliz.
 Shrek e Fiona se beijam ... e o beijo desaparece em ...
-O PÂNTANO
+NO PÂNTANO
 ... seu beijo de casamento. Shrek e Fiona agora estão casados. 'Eu estou
 a Believer 'de Smashmouth é reproduzido em segundo plano. Shrek
 e Fiona se separam e correm no meio da multidão para esperar
 transporte. Que é feito de uma cebola gigante. Fiona joga seu buquê
 que tanto Cinderela quanto Branca de Neve tentam pegar. Mas eles acabam
 entrando em uma luta de gatos e então o dragão pega o buquê
-em vez de. O Gingerbread man foi consertado um pouco e agora
+em vez de. O HOMEM BISCOITO foi consertado um pouco e agora
 tem uma perna e anda com uma bengala de pirulito. Shrek e Fiona
 saia enquanto o resto dos convidados festejam e BURRO assume
 cantando a música.
-GINGERBREAD MAN
+HOMEM BISCOITO
 Deus abençoe todos nós.
 BURRO
 (quando ele termina de cantar e nós desaparecemos para
