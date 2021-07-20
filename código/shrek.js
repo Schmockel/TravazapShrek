@@ -1,36 +1,29 @@
 function enviarScript(scriptText){
-    var allText = scriptText;
-    lines = allText.split("\n"); 
+    const lines = scriptText.split("\n"); 
 
-    var i = 0;                  
-    function myLoop() {         
-        setTimeout(function() {   
-            if(lines[i].trim() != ""){
-                console.log(lines[i]); 
+    let i = 0;       
 
-                window.InputEvent = window.Event || window.InputEvent;
+    setInterval(() => { 
+        if(i >= lines.length) return
 
-                var event = new InputEvent('input', {
-                    bubbles: true
-                });
+        if(lines[i].trim() != ''){ 
+            console.log(lines[i]); 
+    
+            window.InputEvent = window.Event || window.InputEvent;
+    
+            const event = new InputEvent('input', { bubbles: true });
+    
+            const textbox = document.querySelector('#main div._13NKt');
+    
+            textbox.textContent = lines[i];
+    
+            textbox.dispatchEvent(event);
+    
+            document.querySelector("#main span[data-testid=send]").click();                   
 
-                var textbox = document.querySelector('div._1awRl[data-tab="6"]');
-
-                textbox.textContent = lines[i];
-
-                textbox.dispatchEvent(event);
-
-                document.querySelector("button._2Ujuu").click();
-
-            }
-            i++;                    
-            if (i < lines.length) {           
-                myLoop();             
-            }                       
-        }, 250)
-    }
-
-    myLoop(); 
+        }
+        i++;
+    }, 250)
 }
 
 enviarScript(`SHREK
@@ -2749,7 +2742,6 @@ FIONA
 (levantando-se, ela ainda é um ogro) Bem,
 sim. Mas eu não entendo. Eu devo
 para ser bonita.
-
 SHREK
 Mas você é linda.
 Eles sorriem um para o outro.
@@ -2774,5 +2766,4 @@ BURRO
 (quando ele termina de cantar e nós desaparecemos para
 preto) Oh, isso é engraçado. Oh. Oh. Não posso
 respirar. Eu não consigo respirar.
-
 FIM`);
